@@ -1,0 +1,10 @@
+title: "Andy Edinger"
+description: "Applying ML for the Understanding of Mental Health and Belief Formation"
+baseurl: "" # leave blank unless it's a project site
+url: "https://aedinger7.github.io"
+theme: minima
+
+# Optional: Navigation links
+header_pages:
+  - index.md
+  - cv.md
