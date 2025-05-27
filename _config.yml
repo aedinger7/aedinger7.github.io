@@ -1,10 +1,10 @@
 title: "Andy Edinger"
-description: "PhD Candidate - Indiana University - Bloomington, IN, U.S.A."
+description: "PhD Candidate - Indiana University \n Bloomington, IN, U.S.A."
 baseurl: "" # leave blank unless it's a project site
 url: "https://aedinger7.github.io"
 theme: minima
 
 # Optional: Navigation links
-header_pages:
-  - index.md
-  - cv.md
+# header_pages:
+#   - index.md
+#   - cv.md
