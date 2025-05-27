@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: "home"
 ---
 
 Hi, I'm Andy Edinger. I am a Ph.D. Candidate at Indiana University, and I study the cognitive mechanisms that underlie the formation of extreme beliefs and mental health disorders. My work combines computational approaches with cognitive theory, using tools from language modeling, dynamical systems, and network science to explore issues relating to public health, mental health, and political extremism. I'm especially interested in developing methods for evaluating these cognitive mechanisms from a person's behavior on social media.
